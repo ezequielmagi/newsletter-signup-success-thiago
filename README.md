@@ -1,2 +1,2 @@
-# newsletter-signup-success-thiago
-Este proyecto es un trabajo practico realizado en clase de Desarrollo Web para la empresa ITC con los alumnos.
+# newsletterr-signp-success
+Trabajo practico para aplicar lo aprendido de git y github, aprender formularios en html y a futuro funcionalidad con javascript
